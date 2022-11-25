@@ -41,7 +41,7 @@ Ya hecho esto, es posible emular la aplicacion mediante el browser preferido. Pa
 Se debera aceptar la instalacion del modulo lab para que este ambiente de emulacion se ejecute de manera adecuada
 
 
-###E2E 
+### E2E 
 Para instalar el testing e2e, se debera mover el archivo .rar y descomprimr en la raiz del proyecto. Luego se ejecutara con el comando 
 ```npn run e2e```
 
@@ -49,4 +49,4 @@ Para instalar el testing e2e, se debera mover el archivo .rar y descomprimr en l
 ### Aviso
 
 Este repositorio solo constituye una parte de la prueba, ya que en si esta aplicacion esta constituida por dos partes, la de los alumnos y la de los profesores.
-Si deseas ver el repositorio de los profesores, solo debes acceder a este <a href='https://github.com/notGabo/BcDocentes_Soto_Venegas_005D'>link!<a>
+Si deseas ver el repositorio de los profesores, solo debes acceder a este <a href='https://github.com/notGabo/notGabo-BCAlumnos3_VenegasSoto005D'>link!<a>
